@@ -6,7 +6,7 @@ A simulation study on how the method of 1T sentence mining can grow a French lea
 
 '1T Simulations.ipynb' contains the simulation code and results.
 
-'functions.py' contains some helper functions used to perform to simulations in '1T Simulations.ipynb'
+'functions.py' contains some helper functions used to perform the simulations in '1T Simulations.ipynb'
 
 'Analysis.ipynb' contains the results of the simulations and an explanation of how the simulation worked.
 

@@ -1,4 +1,4 @@
-# Analysis-and-comparison-of-using-different-book-series-as-a-vocabulary-builder-when-learning-French-
+# Analysis-and-comparison-of-using-different-book-series-as-a-vocabulary-builder-when-learning-French
 
 ![banner](https://user-images.githubusercontent.com/18585507/131611873-38388e8c-3a83-4ae2-9fa3-e4f5625937ca.png)
 
@@ -6,7 +6,7 @@ A simulation study on how the method of 1T sentence mining can grow a French lea
 
 '1T Simulations.ipynb' contains the simulation code and results.
 
-functions.py contains some helper functions used to perform to simulations in '1T Simulations.ipynb'
+'functions.py' contains some helper functions used to perform to simulations in '1T Simulations.ipynb'
 
 'Analysis.ipynb' contains the results of the simulations and an explanation of how the simulation worked.
 
